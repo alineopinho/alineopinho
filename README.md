@@ -1,45 +1,44 @@
-# Olá, eu sou a Aline! 👋🎨💻
+# Olá, eu sou a Aline! 👋💻
 
-Sou estudante de Ciência da Computação apaixonada por unir **arte e tecnologia** — explorando o universo Artist Tech, onde a criatividade encontra o código, e a matemática se transforma em expressão visual. ✨
+Sou estudante de **Ciência da Computação**, com formação técnica em Informática e experiência prática em TI.
 
-Crio experiências digitais com emoção, propósito e alma.
+Atualmente, estou construindo minha carreira com foco em **Engenharia de Sistemas, Infraestrutura, Cloud e Automação**, aprofundando conhecimentos em programação, redes, Linux, banco de dados e engenharia de software.
 
----
+## 🔧 Foco atual
 
-## 🌟 Um pouco sobre mim:
+* Linux e Sistemas Operacionais
+* Redes e TCP/IP
+* Python
+* Java / C#
+* SQL
+* Git e GitHub
+* APIs
+* Docker
+* Cloud e Automação
 
-- 🎨 Amo transformar ideias em visuais vivos, misturando **código, arte e sentimento**
-- 🧠 Sou movida por curiosidade e gosto de aprender como as coisas funcionam — de **álgebra linear** a **sistemas interativos**
-- 💬 Acredito no poder do **storytelling emocional** como forma de criar conexões (inclusive nos jogos!)
-- 💻 Me interesso por **shaders**, **computação gráfica**, **arte generativa** e ferramentas visuais criadas por devs criativos
-- ✍️ Gosto de escrever, criar personagens e dar voz a ideias — inclusive as que ainda estão crescendo em mim
+## 🎯 Direção profissional
 
----
+Tenho interesse em evoluir para áreas como:
 
-## 🚀 O que você vai encontrar por aqui:
+**Systems Engineering · Infrastructure · Cloud · DevOps · Platform Engineering · SRE**
 
-- 🧩 Projetos que misturam **visualização gráfica**, **programação criativa** e **matemática visual**
-- 🎯 Experimentos com **JavaScript**, **Canvas API**, **transformações visuais** e **animações interativas**
-- 🎮 Estudos iniciais em **Unity** e **Blender**, com o objetivo de desenvolver projetos autorais
-- 🌈 Explorações criativas onde **a lógica encontra a beleza**
+Também exploro computação gráfica, jogos, ferramentas técnicas e sistemas interativos como campos de experimentação e desenvolvimento técnico.
 
----
+## 📂 Portfólio
 
-## 💭 Visão de futuro:
+Aqui você encontrará projetos de:
 
-> Quero ser uma **Artist Tech de referência**, construindo projetos digitais com significado, liberdade e impacto.  
-> Misturar arte com código, propósito com profissão, sonho com execução.  
-> E inspirar outros a fazer o mesmo — com coragem.
+* automação;
+* infraestrutura;
+* backend e APIs;
+* banco de dados;
+* sistemas;
+* cloud;
+* experimentos com jogos e computação criativa.
 
----
+## 📫 Contato
 
-## 🤲 Vamos trocar ideias?
+* [LinkedIn](https://www.linkedin.com/in/alineopinho)
+* [GitHub](https://github.com/alineopinho)
 
-- 💌 Me chama no [LinkedIn](https://www.linkedin.com/in/alineopinho) 
-- 💻 Veja meus projetos aqui no [GitHub](https://github.com/alineopinho)  
-
----
-
-> "A arte é a matemática feita visível." – anon.
-
-✨ Vamos criar, aprender e transformar juntos! ✨
+> Entender sistemas, construir soluções e evoluir continuamente.
