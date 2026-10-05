@@ -2,11 +2,13 @@
 
 Estudante de **Ciência da Computação**, técnica em Informática e com experiência prática em TI.
 
-Atualmente desenvolvo conhecimentos em **desenvolvimento de software, sistemas, infraestrutura, automação e cloud**, além de explorar **jogos, computação gráfica e sistemas interativos** por meio de projetos próprios.
+Atualmente desenvolvo minha carreira entre **Desenvolvimento de Software, Sistemas, Infraestrutura e Automação**, aprofundando conhecimentos em programação, Linux, redes, banco de dados, cloud e engenharia de software.
+
+Também exploro **Game Development, computação gráfica e sistemas interativos** por meio de projetos próprios.
 
 📍 Brasília - DF  
 🎓 Ciência da Computação  
-💻 Desenvolvimento · Sistemas · Infraestrutura · Automação
+💻 Desenvolvimento · Sistemas · Infraestrutura · Automação  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineopinho)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alineopinho)
@@ -24,7 +26,7 @@ Experiência web interativa baseada em uma lista de compras com elementos de mis
 **Principais conceitos:** HTML, CSS, JavaScript, DOM, eventos, estado da aplicação e lógica de interação.
 
 ### 🔐 Cifra de César
-Projeto em planejamento para transformar conceitos estudados em Segurança da Informação em uma aplicação web interativa.
+Projeto em desenvolvimento inspirado em conteúdos de Segurança da Informação, com foco na implementação visual e interativa do algoritmo de Cifra de César.
 
 ## 🛠️ Tech stack
 
@@ -32,37 +34,28 @@ Projeto em planejamento para transformar conceitos estudados em Segurança da In
   <img src="https://skillicons.dev/icons?i=js,python,java,cs,html,css,git,github,docker,linux,mysql,postgres,vscode" />
 </p>
 
-### Linguagens
-- JavaScript
-- Python
-- Java
-- C#
-- SQL
-
-### Sistemas e infraestrutura
-- Linux
-- Windows
-- Redes e TCP/IP
-- Docker
-- Git e GitHub
-- APIs
-- Banco de Dados
-
-### Explorando atualmente
-- Cloud
-- DevOps
-- Automação
-- Game Development
-- Computação Gráfica
+- **Desenvolvimento:** JavaScript, Python, Java, C#, HTML e CSS
+- **Dados:** SQL, MySQL e PostgreSQL
+- **Infraestrutura:** Linux, Windows, Redes TCP/IP e Docker
+- **Ferramentas:** Git, GitHub e VS Code
+- **Explorando:** Cloud, DevOps, Automação, Game Development e Computação Gráfica
 
 ## 💼 Experiência prática
 
-Atuo em estágio na área de Tecnologia da Informação, com experiência em suporte técnico, preparação de estações, sistemas corporativos, autenticação, conectividade e troubleshooting.
+Atuo na área de Tecnologia da Informação com experiência em:
+
+- suporte técnico;
+- preparação e configuração de estações;
+- sistemas corporativos;
+- autenticação;
+- conectividade;
+- troubleshooting;
+- infraestrutura de TI.
 
 ## 🎓 Formação
 
 - **Ciência da Computação** — graduação em andamento
-- **Técnico em Informática**
+- **Técnico em Informática** — concluído
 
 ## 🎯 Interesses profissionais
 
