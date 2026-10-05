@@ -69,4 +69,21 @@ Ao mesmo tempo, uso projetos pessoais para explorar **games, computação gráfi
 
 [LinkedIn](https://www.linkedin.com/in/alineopinho)
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg"
+  />
+</picture>
+
 > Entender como funciona. Construir. Testar. Melhorar.
