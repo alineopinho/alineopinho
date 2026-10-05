@@ -1,34 +1,33 @@
 # Olá, eu sou a Aline 👋💻
 
-Estudante de **Ciência da Computação**, técnica em Informática e com experiência prática em TI.
+Sou estudante de **Ciência da Computação**, técnica em Informática e atuo na área de TI.
 
-Atualmente desenvolvo minha carreira entre **Desenvolvimento de Software, Sistemas, Infraestrutura e Automação**, aprofundando conhecimentos em programação, Linux, redes, banco de dados, cloud e engenharia de software.
+Gosto de entender como sistemas funcionam por trás, investigar problemas e transformar ideias em soluções. Atualmente venho desenvolvendo projetos que misturam **desenvolvimento de software, infraestrutura, automação e sistemas interativos**.
 
-Também exploro **Game Development, computação gráfica e sistemas interativos** por meio de projetos próprios.
+Também exploro **Game Development e computação gráfica** como áreas de interesse técnico e criativo.
 
 📍 Brasília - DF  
 🎓 Ciência da Computação  
 💻 Desenvolvimento · Sistemas · Infraestrutura · Automação  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineopinho)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alineopinho)
 
-## 🚀 Projetos em destaque
+## 🚀 O que estou construindo
 
 ### 🎮 Signal Lost
-Minigame 2D desenvolvido para navegador, com foco em lógica de jogo e interação em tempo real.
+Minigame 2D para navegador desenvolvido com JavaScript e Canvas 2D.
 
-**Principais conceitos:** JavaScript, Canvas 2D, estados de jogo, input, colisões, HUD, timer e progressão de fases.
+O projeto envolve movimento, colisões, estados de jogo, HUD, timer, progressão de fases e interação em tempo real.
 
 ### 🕵️ Check Again
-Experiência web interativa baseada em uma lista de compras com elementos de mistério e dedução.
+Aplicação web interativa que transforma uma lista de compras em uma pequena experiência de mistério e dedução.
 
-**Principais conceitos:** HTML, CSS, JavaScript, DOM, eventos, estado da aplicação e lógica de interação.
+Trabalha com manipulação do DOM, eventos, estados da interface, regras de interação e lógica em JavaScript.
 
 ### 🔐 Cifra de César
-Projeto em desenvolvimento inspirado em conteúdos de Segurança da Informação, com foco na implementação visual e interativa do algoritmo de Cifra de César.
+Projeto inspirado em conteúdos de Segurança da Informação, criado para transformar o algoritmo de Cifra de César em uma experiência web visual e interativa.
 
-## 🛠️ Tech stack
+## 🛠️ Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,java,cs,html,css,git,github,docker,linux,mysql,postgres,vscode" />
@@ -36,38 +35,38 @@ Projeto em desenvolvimento inspirado em conteúdos de Segurança da Informação
 
 - **Desenvolvimento:** JavaScript, Python, Java, C#, HTML e CSS
 - **Dados:** SQL, MySQL e PostgreSQL
-- **Infraestrutura:** Linux, Windows, Redes TCP/IP e Docker
+- **Sistemas e infraestrutura:** Linux, Windows, Redes TCP/IP e Docker
 - **Ferramentas:** Git, GitHub e VS Code
-- **Explorando:** Cloud, DevOps, Automação, Game Development e Computação Gráfica
 
-## 💼 Experiência prática
+Atualmente também estudo **Cloud, DevOps, automação, Game Development e computação gráfica**.
 
-Atuo na área de Tecnologia da Informação com experiência em:
+## 💼 Experiência em TI
+
+Tenho experiência prática com:
 
 - suporte técnico;
-- preparação e configuração de estações;
+- configuração e preparação de estações;
 - sistemas corporativos;
-- autenticação;
+- autenticação e acesso;
 - conectividade;
-- troubleshooting;
+- diagnóstico e resolução de problemas;
 - infraestrutura de TI.
 
 ## 🎓 Formação
 
-- **Ciência da Computação** — graduação em andamento
+- **Ciência da Computação** — em andamento
 - **Técnico em Informática** — concluído
 
-## 🎯 Interesses profissionais
+## 🧭 Direção
 
-Tenho interesse em oportunidades nas áreas de:
+Tenho interesse em crescer profissionalmente em áreas como:
 
 **Desenvolvimento de Software · Sistemas · Infraestrutura · Automação · Cloud · DevOps**
 
-Também desenvolvo projetos em **Game Development e Creative Tech** como área de aprofundamento técnico e criativo.
+Ao mesmo tempo, uso projetos pessoais para explorar **games, computação gráfica e Creative Tech**.
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/alineopinho)
-- [GitHub](https://github.com/alineopinho)
+[LinkedIn](https://www.linkedin.com/in/alineopinho)
 
-> Entender sistemas, construir soluções e evoluir continuamente.
+> Entender como funciona. Construir. Testar. Melhorar.
