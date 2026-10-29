@@ -68,9 +68,18 @@ Estudante de **Ciência da Computação** e técnica em **Informática**. Tenho 
 <h2><img src="./assets/icons/terminal.svg" width="23" height="23" alt="" /> Minhas contribuições</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg" />
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-dark.svg?v=2"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg?v=2"
+  />
+  <img
+    alt="Animação rosa das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg?v=2"
+  />
 </picture>
 
 <div align="center">
