@@ -1,89 +1,80 @@
-# Olá, eu sou a Aline 👋💻
+<div align="center">
 
-Sou estudante de **Ciência da Computação**, técnica em Informática e atuo na área de TI.
+<h1>Olá, eu sou a Aline <img src="./assets/icons/rose.svg" alt="Rosa" width="26" height="26" /></h1>
 
-Gosto de entender como sistemas funcionam por trás, investigar problemas e transformar ideias em soluções. Atualmente venho desenvolvendo projetos que misturam **desenvolvimento de software, infraestrutura, automação e sistemas interativos**.
+**Ciência da Computação · Desenvolvimento de Software · Sistemas e Infraestrutura**
 
-Também exploro **Game Development e computação gráfica** como áreas de interesse técnico e criativo.
+Sou estudante de Ciência da Computação, técnica em Informática e atuo na área de TI, com experiência prática em suporte técnico e infraestrutura.
 
-📍 Brasília - DF  
-🎓 Ciência da Computação  
-💻 Desenvolvimento · Sistemas · Infraestrutura · Automação  
+Gosto de compreender como os sistemas funcionam, investigar problemas e desenvolver soluções. Tenho interesse em Engenharia de Software, desenvolvimento de sistemas e automação, explorando também diferentes tecnologias e abordagens.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineopinho)
+Nos meus projetos autorais, combino programação, lógica, criatividade e design, experimentando desde aplicações web e jogos até novas possibilidades com inteligência artificial.
 
-## 🚀 O que estou construindo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D96C9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alineopinho)
+[![Projetos](https://img.shields.io/badge/Projetos-3A2732?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alineopinho?tab=repositories)
 
-### 🎮 Signal Lost
-Minigame 2D para navegador desenvolvido com JavaScript e Canvas 2D.
+</div>
 
-O projeto envolve movimento, colisões, estados de jogo, HUD, timer, progressão de fases e interação em tempo real.
+---
 
-### 🕵️ Check Again
-Aplicação web interativa que transforma uma lista de compras em uma pequena experiência de mistério e dedução.
+<h2><img src="./assets/icons/folder.svg" width="23" height="23" alt="" /> Projetos autorais</h2>
 
-Trabalha com manipulação do DOM, eventos, estados da interface, regras de interação e lógica em JavaScript.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/alineopinho/signal-lost"><img src="./assets/images/signal-lost.png" alt="Arte conceitual de Signal Lost" width="100%"></a>
+      <h3><img src="./assets/icons/gamepad.svg" width="20" height="20" alt="" /> Signal Lost</h3>
+      <p>Minigame 2D para navegador, com movimento, colisões, estados de jogo e interface em Canvas.</p>
+      <p><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3A2732?style=flat-square&logo=javascript&logoColor=F7DF1E"> <img alt="Canvas 2D" src="https://img.shields.io/badge/Canvas_2D-D96C9D?style=flat-square"></p>
+      <p><a href="https://github.com/alineopinho/signal-lost">Explorar repositório</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/alineopinho/check-again"><img src="./assets/images/check-again.png" alt="Arte conceitual de Check Again" width="100%"></a>
+      <h3><img src="./assets/icons/basket.svg" width="20" height="20" alt="" /> Check Again</h3>
+      <p>Lista de compras interativa com uma proposta de experiência narrativa, focada em lógica e fluxo do usuário.</p>
+      <p><img alt="HTML" src="https://img.shields.io/badge/HTML-3A2732?style=flat-square&logo=html5"> <img alt="CSS" src="https://img.shields.io/badge/CSS-3A2732?style=flat-square&logo=css"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-D96C9D?style=flat-square&logo=javascript&logoColor=white"></p>
+      <p><a href="https://github.com/alineopinho/check-again">Explorar repositório</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/alineopinho/ciphertty"><img src="./assets/images/ciphertty.png" alt="Arte conceitual do terminal CipherTTY" width="100%"></a>
+      <h3><img src="./assets/icons/terminal.svg" width="20" height="20" alt="" /> CipherTTY</h3>
+      <p>Laboratório educativo de criptografia clássica com terminal retrô e exploração livre de comandos.</p>
+      <p><img alt="Em planejamento" src="https://img.shields.io/badge/Em_planejamento-D96C9D?style=flat-square"> <img alt="React e TypeScript previstos" src="https://img.shields.io/badge/React_%2B_TypeScript-previstos-3A2732?style=flat-square"></p>
+      <p><a href="https://github.com/alineopinho/ciphertty">Ver conceito e documentação</a></p>
+    </td>
+  </tr>
+</table>
 
-### 🔐 Cifra de César
-Projeto inspirado em conteúdos de Segurança da Informação, criado para transformar o algoritmo de Cifra de César em uma experiência web visual e interativa.
+<sub>As capas são artes conceituais; não representam capturas reais dos aplicativos.</sub>
 
-## 🛠️ Tecnologias
+<h2><img src="./assets/icons/code.svg" width="23" height="23" alt="" /> Engenharia de Software e estudos</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cs,html,css,git,github,docker,linux,mysql,postgres,vscode" />
-</p>
+- [VetCare — Engenharia de Software](https://github.com/alineopinho/vetcare-engenharia-software): requisitos, modelagem, rastreabilidade e QA.
+- [Guia Git & GitHub](https://github.com/alineopinho/guia-git-github): anotações e procedimentos práticos para versionamento.
 
-- **Desenvolvimento:** JavaScript, Python, Java, C#, HTML e CSS
-- **Dados:** SQL, MySQL e PostgreSQL
-- **Sistemas e infraestrutura:** Linux, Windows, Redes TCP/IP e Docker
-- **Ferramentas:** Git, GitHub e VS Code
+<h2><img src="./assets/icons/layers.svg" width="23" height="23" alt="" /> Tecnologias e ferramentas</h2>
 
-Atualmente também estudo **Cloud, DevOps, automação, Game Development e computação gráfica**.
+**Desenvolvimento:** JavaScript, HTML, CSS, Python, Java e C#  
+**Dados:** SQL, MySQL e PostgreSQL  
+**Sistemas e infraestrutura:** Windows, Linux, redes TCP/IP e Docker  
+**Ferramentas:** Git, GitHub e VS Code
 
-## 💼 Experiência em TI
+*Em exploração:* React, TypeScript, automação, Cloud, DevOps e desenvolvimento de jogos.
 
-Tenho experiência prática com:
+<h2><img src="./assets/icons/briefcase.svg" width="23" height="23" alt="" /> Experiência e formação</h2>
 
-- suporte técnico;
-- configuração e preparação de estações;
-- sistemas corporativos;
-- autenticação e acesso;
-- conectividade;
-- diagnóstico e resolução de problemas;
-- infraestrutura de TI.
+Estudante de **Ciência da Computação** e técnica em **Informática**. Tenho experiência prática com suporte técnico, diagnóstico de problemas, configuração de estações, autenticação, conectividade e infraestrutura de TI.
 
-## 🎓 Formação
-
-- **Ciência da Computação** — em andamento
-- **Técnico em Informática** — concluído
-
-## 🧭 Direção
-
-Tenho interesse em crescer profissionalmente em áreas como:
-
-**Desenvolvimento de Software · Sistemas · Infraestrutura · Automação · Cloud · DevOps**
-
-Ao mesmo tempo, uso projetos pessoais para explorar **games, computação gráfica e Creative Tech**.
-
-## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/alineopinho)
-
-## 🐍 Minhas contribuições
+<h2><img src="./assets/icons/terminal.svg" width="23" height="23" alt="" /> Minhas contribuições</h2>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg"
-  />
-  <img
-    alt="Animação das contribuições do GitHub"
-    src="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg" />
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg" />
 </picture>
 
-> Entender como funciona. Construir. Testar. Melhorar.
+<div align="center">
+  <img src="./assets/icons/rose.svg" alt="Rosa" width="20" height="20" />
+  <em>Entender como funciona. Construir. Testar. Melhorar.</em>
+  <img src="./assets/icons/sparkle.svg" alt="Brilho" width="20" height="20" />
+</div>
