@@ -70,15 +70,15 @@ Estudante de **Ciência da Computação** e técnica em **Informática**. Tenho 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-pink-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-pink.svg"
   />
   <img
     alt="Animação rosa das contribuições do GitHub"
-    src="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/alineopinho/alineopinho/output/github-snake-pink.svg"
   />
 </picture>
 
